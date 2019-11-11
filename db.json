@@ -9,7 +9,6 @@
             "deaNum":"321D",
             "Client_ID":"1",
             "name":"ABC",
-            "Address1":"34 street 1",
             "State":"FD"
          },
          { 
@@ -83,8 +82,7 @@
       "deaNum":"321D",
       "Client_ID":"1",
       "name":"ABC",
-      "State":"FD",
-      "Zip":"23214"
+      "State":"FD"
    },
    { 
       "deaNum":"321D",
